@@ -28,7 +28,7 @@ Asegúrate de tener instalado Python y las siguientes bibliotecas:
 
 1. Clona el repositorio:
    ```bash
-   git clone url_to_repository
+   git clone [url_to_repository](https://github.com/aquilu/muisca_code)
    ```
 2. Instala las dependencias:
    ```bash
