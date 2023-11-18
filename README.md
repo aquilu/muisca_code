@@ -40,7 +40,7 @@ Asegúrate de tener instalado Python y las siguientes bibliotecas:
 Para ejecutar la aplicación:
 
 ```bash
-streamlit run your_script.py
+streamlit run app.py
 ```
 
 ## Contribuir
@@ -61,4 +61,4 @@ Distribuido bajo la Licencia XYZ. Ver `LICENSE` para más información.
 
 [@halba](https://twitter.com/halba)
 
-Link del Proyecto: [https://github.com/tu_usuario/tu_repositorio](https://github.com/tu_usuario/tu_repositorio)
+Link del Proyecto: [[https://github.com/tu_usuario/tu_repositorio](https://github.com/aquilu/muisca_code)]([https://github.com/tu_usuario/tu_repositorio](https://github.com/aquilu/muisca_code)https://github.com/aquilu/muisca_code)
